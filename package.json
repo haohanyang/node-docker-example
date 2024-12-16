@@ -1,0 +1,14 @@
+{
+  "name": "node-docker-example",
+  "version": "0.0.1",
+  "description": "An example about how to dockerize a node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Haohan Yang",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
